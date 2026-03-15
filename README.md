@@ -15,11 +15,11 @@
 ---
 
 ### 🛠 Projects
-- 📰 **NewsFeed Algorithm (C++)** – Algorithm-based project using DSA concepts  
-- 🏢 **Employee Management System** – PHP & MySQL based full-stack application  
-- 🌐 **REST API** – Node.js, Express & MongoDB  
-- 💼 **Jobkhozo** – Job portal web application  
-
+- 🤖 **IntelliHire** – AI-powered technical hiring platform built with React, Node.js, Express, MongoDB and Redis.
+- 💼 **JobKhozo** – Job portal web application for job listings and applications.
+- 🏢 **Employee Management System** – Full-stack application using PHP and MySQL for managing employee records.  
+- 📰 **NewsFeed Algorithm (C++)** – Implemented a social media news feed ranking system using Heap and HashMap.  
+- 🌐 **REST API** – Backend RESTful API built with Node.js, Express and MongoDB.  
 ---
 
 ### 📚 Currently Learning
