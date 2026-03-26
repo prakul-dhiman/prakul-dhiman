@@ -1,276 +1,250 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Prakul+Dhiman;Full+Stack+Developer;Problem+Solver;Building+the+Future" alt="Typing SVG" />
+</h1>
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prakul%20Dhiman&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-
-<!-- Typing SVG -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=BTech+Computer+Science+Student;Aspiring+Software+Engineer;Building+Real-World+Solutions;Problem+Solver+%7C+Code+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=6C757D&center=true&vCenter=true&random=false&width=600&lines=BTech+Computer+Science+Engineering+Student;Passionate+about+Backend+%26+System+Design;Always+Learning%2C+Always+Building" alt="Subtitle" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prakul-dhiman&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/prakul-dhiman?tab=followers">
+    <img src="https://img.shields.io/github/followers/prakul-dhiman?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" />
   </a>
 </p>
 
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prakul-dhiman/prakul-dhiman/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prakul-dhiman/prakul-dhiman/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prakul-dhiman/prakul-dhiman/output/github-contribution-grid-snake.svg">
-</picture>
+<br/>
+
+<!-- Animated Snake -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/prakul-dhiman/prakul-dhiman/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
 
 <br/>
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=prakul-dhiman&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+## 💫 About Me
 
-</div>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
----
-
-<div align="center">
-
-## 🚀 About Me
-
-</div>
-
-```javascript
-const prakul = {
-    location: "India 🇮🇳",
-    education: "BTech in Computer Science Engineering",
-    currentFocus: ["Backend Development", "System Design", "DSA"],
-    askMeAbout: ["Web Dev", "APIs", "Database Design", "Problem Solving"],
-    technologies: {
-        languages: ["C++", "JavaScript", "PHP", "SQL"],
-        backend: ["Node.js", "Express.js", "MongoDB", "Redis"],
-        frontend: ["HTML5", "CSS3", "JavaScript", "React"],
-        tools: ["Git", "GitHub", "Postman", "VS Code"]
-    },
-    currentlyLearning: ["Advanced DSA", "System Design", "Cloud Computing"],
-    funFact: "I debug with console.log() and I'm proud of it! 😄"
+```typescript
+const prakul: Developer = {
+  name: "Prakul Dhiman",
+  location: "India 🇮🇳",
+  education: "BTech CSE",
+  
+  role: "Aspiring Software Engineer",
+  
+  code: ["JavaScript", "C++", "PHP", "SQL"],
+  
+  technologies: {
+    backend: ["Node.js", "Express.js", "MongoDB", "Redis"],
+    frontend: ["React", "HTML5", "CSS3"],
+    tools: ["Git", "GitHub", "VS Code", "Postman"]
+  },
+  
+  currentFocus: "Building scalable backend systems",
+  learning: ["System Design", "Advanced DSA", "Cloud Computing"],
+  
+  funFact: "I turn coffee into code ☕️ → 💻"
 };
 ```
 
----
+<br clear="right"/>
 
-<div align="center">
+## 🚀 What I'm Up To
+
+- 🔭 Building **IntelliHire** - AI-powered technical hiring platform
+- 🌱 Learning **System Design** and **Cloud Architecture**
+- 💡 Exploring **Advanced Data Structures & Algorithms**
+- 🎯 Goal: Contribute to open-source and solve real-world problems
+- 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/prakul58/)**
+
+<br/>
 
 ## 🛠️ Tech Stack
 
-</div>
+<details open>
+<summary><b>Languages</b></summary>
+<br/>
 
-<div align="center">
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Languages
-<p>
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-</p>
+</details>
 
-### Backend Development
-<p>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-</p>
+<details open>
+<summary><b>Backend & Database</b></summary>
+<br/>
 
-### Frontend Development
-<p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools & Technologies
-<p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
+</details>
 
-</div>
+<details open>
+<summary><b>Frontend</b></summary>
+<br/>
 
----
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<div align="center">
+</details>
+
+<details open>
+<summary><b>Tools & Technologies</b></summary>
+<br/>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</details>
+
+<br/>
 
 ## 💼 Featured Projects
 
-</div>
-
-<div align="center">
-
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 IntelliHire
+### 🤖 [IntelliHire](https://github.com/prakul-dhiman/IntelliHire)
 **AI-Powered Technical Hiring Platform**
 
-An intelligent hiring solution built with modern tech stack featuring automated candidate screening and interview processes.
+Intelligent recruitment solution with automated screening and assessment capabilities.
 
-**Tech:** React • Node.js • Express • MongoDB • Redis
+**Stack:** React, Node.js, Express, MongoDB, Redis
 
-⭐ Smart candidate matching  
-⭐ Automated technical assessments  
-⭐ Real-time analytics dashboard
+```diff
++ Smart candidate matching algorithm
++ Automated technical assessments
++ Real-time analytics dashboard
++ Scalable microservices architecture
+```
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💼 JobKhozo
+### 💼 [JobKhozo](https://github.com/prakul-dhiman/JobKhozo)
 **Comprehensive Job Portal**
 
-Full-featured job portal connecting employers with job seekers, streamlining the application process.
+Full-featured platform connecting employers with job seekers.
 
-**Tech:** Node.js • Express • MongoDB
+**Stack:** Node.js, Express, MongoDB
 
-⭐ Advanced job search filters  
-⭐ Application tracking system  
-⭐ User-friendly interface
+```diff
++ Advanced search & filters
++ Application tracking system
++ User authentication & authorization
++ Responsive modern UI
+```
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏢 Employee Management System
+### 🏢 [Employee Management System](https://github.com/prakul-dhiman)
 **Enterprise HR Solution**
 
-Robust employee management system with CRUD operations and reporting capabilities.
+Complete CRUD application for managing employee records and operations.
 
-**Tech:** PHP • MySQL
+**Stack:** PHP, MySQL
 
-⭐ Employee records management  
-⭐ Attendance tracking  
-⭐ Performance analytics
+```diff
++ Employee records management
++ Attendance & leave tracking
++ Performance analytics
++ Role-based access control
+```
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📰 NewsFeed Algorithm
+### 📰 [NewsFeed Algorithm](https://github.com/prakul-dhiman)
 **Social Media Feed Ranking**
 
-Implemented efficient news feed ranking system using advanced data structures.
+Efficient feed ranking system using advanced data structures.
 
-**Tech:** C++ • Heap • HashMap
+**Stack:** C++, Heap, HashMap
 
-⭐ O(log n) insertion complexity  
-⭐ Optimized feed generation  
-⭐ Scalable architecture
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" colspan="2" align="center">
-
-### 🌐 REST API
-**Backend RESTful Service**
-
-Production-ready REST API with authentication, authorization, and complete CRUD operations.
-
-**Tech:** Node.js • Express • MongoDB
-
-⭐ JWT Authentication • ⭐ Input Validation • ⭐ Error Handling • ⭐ API Documentation
+```diff
++ O(log n) insertion complexity
++ Optimized feed generation
++ Scalable architecture
++ Memory-efficient design
+```
 
 </td>
 </tr>
 </table>
 
-</div>
-
----
-
-<div align="center">
+<br/>
 
 ## 📊 GitHub Statistics
 
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=prakul-dhiman&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prakul-dhiman&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prakul-dhiman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakul-dhiman&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakul-dhiman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=prakul-dhiman&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideLabels=C9D1D9"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prakul-dhiman&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
 </div>
 
+<br/>
+
+## 🏆 Achievements
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prakul-dhiman&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&area_color=1F6FEB" width="90%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=prakul-dhiman&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophies" />
 </div>
 
----
+<br/>
+
+## 📫 Connect With Me
 
 <div align="center">
-
-## 🏆 GitHub Trophies
-
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prakul-dhiman&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="trophy" />
-</div>
-
----
-
-<div align="center">
-
-## 📈 Contribution Graph
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prakul-dhiman&custom_title=Prakul's%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area_color=1F6FEB&title_color=58A6FF&area=true&hide_border=true" width="100%"/>
-</div>
-
----
-
-<div align="center">
-
-## 🌐 Connect With Me
-
-</div>
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prakul-dhiman)
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakul58/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prakul-dhiman)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakuldhiman@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://prakuldhiman.dev)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  
+### 💭 Random Dev Quote
+  
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 
 </div>
 
 ---
 
 <div align="center">
+  
+**💡 "Consistently learning, building, and improving every day."**
 
-### 💭 Dev Quote of the Day
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
-
-<div align="center">
-
-### ✍️ Random Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-</div>
-
----
-
-<div align="center">
-
-**"Consistently learning, building, and improving every day."** 💪
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
 </div>
