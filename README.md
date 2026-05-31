@@ -308,32 +308,6 @@ Performance Benchmarks
   </picture>
 </div>
 
----
-
-## 💡 What Recruiters Usually Ask Me
-
-<details>
-<summary><b>How do you approach system design?</b></summary>
-
-I start with requirements — functional & non-functional. Then define the data model, choose the right database (SQL vs NoSQL based on access patterns), design APIs, and then think about scale bottlenecks: caching layers (Redis), horizontal scaling, and async job queues. I document trade-offs, not just solutions.
-
-</details>
-
-<details>
-<summary><b>What's your strongest area?</b></summary>
-
-Backend engineering — designing RESTful APIs, managing MongoDB schemas for scale, and setting up efficient Redis caching. I also bring solid C++ DSA skills that help me reason through complexity and optimise algorithms at the code level.
-
-</details>
-
-<details>
-<summary><b>How do you handle code quality?</b></summary>
-
-Consistent folder structure (MVC), meaningful naming, JSDoc comments, and centralised error handling. I use Postman for API testing and Swagger for documentation. I also write modular code so units can be tested independently.
-
-</details>
-
----
 
 ## 📬 Let's Connect
 
