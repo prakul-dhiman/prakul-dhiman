@@ -523,20 +523,6 @@ src/
 
 ---
 
-<!-- ===== LEETCODE STATS ===== -->
-
-
-<!-- ===== TROPHIES ===== -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=prakul-dhiman&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
-
-</div>
-
----
 
 <!-- ===== SNAKE ANIMATION ===== -->
 
