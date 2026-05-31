@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Prakul%20Dhiman&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20Problem%20Solver&descAlignY=57&descSize=17" width="100%"/>
 </div>
+
 <div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&repeat=true&width=750&lines=🚀+Building+Scalable+Backend+Systems;💡+Turning+Ideas+into+Production-Ready+Code;🔍+System+Design+%7C+APIs+%7C+Real-time+Apps;🌱+Open+Source+Contributor+%7C+DSA+Enthusiast)](https://git.io/typing-svg)
 </div>
