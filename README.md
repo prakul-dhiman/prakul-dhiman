@@ -525,17 +525,6 @@ src/
 
 <!-- ===== LEETCODE STATS ===== -->
 
-## 🧩 LeetCode Progress
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/prakul-dhiman?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=12" alt="LeetCode Stats"/>
-
-</div>
-
-> 💪 Consistently solving DSA problems in **C++** — focusing on Trees, Graphs, DP & Sliding Window patterns.
-
----
 
 <!-- ===== TROPHIES ===== -->
 
