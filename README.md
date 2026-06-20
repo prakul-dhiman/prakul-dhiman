@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/prakul58/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:prakuldhiman@gmail.com">
+<a href="mailto:prakul.dhiman85@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/prakul-dhiman" target="_blank">
