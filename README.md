@@ -354,8 +354,34 @@ HTML, CSS, JavaScript, React, Node.js, MongoDB
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prakul-dhiman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_radius=12" alt="GitHub Stats"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakul-dhiman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8&border_radius=12" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=prakul-dhiman&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&border_radius=12" alt="Streak Stats"/>
 
+</div>
+
+<div align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakul-dhiman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8&border_radius=12" alt="Top Languages"/>
+&nbsp;&nbsp;
+<img width="56%" src="https://github-readme-activity-graph.vercel.app/graph?username=prakul-dhiman&bg_color=0d1117&color=a78bfa&line=a78bfa&point=c9d1d9&area=true&hide_border=true&custom_title=Contribution+Timeline&area_color=a78bfa" alt="Activity Graph"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=prakul-dhiman&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/prakul-dhiman/prakul-dhiman/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prakul-dhiman/prakul-dhiman/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/prakul-dhiman/prakul-dhiman/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </div>
 
 ---
