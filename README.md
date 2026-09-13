@@ -348,59 +348,6 @@ HTML, CSS, JavaScript, React, Node.js, MongoDB
 
 <!-- ===== GITHUB STATISTICS ===== -->
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=prakul-dhiman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&border_radius=12"
-    alt="Prakul's GitHub Statistics"
-    height="180"
-  />
-
-  <img
-    src="https://streak-stats.demolab.com/?user=prakul-dhiman&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&border_radius=12"
-    alt="Prakul's GitHub Streak"
-    height="180"
-  />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakul-dhiman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8&border_radius=12"
-    alt="Prakul's Most Used Languages"
-    height="180"
-  />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=prakul-dhiman&bg_color=0D1117&color=A78BFA&line=A78BFA&point=C9D1D9&area=true&hide_border=true&custom_title=Contribution%20Activity"
-    alt="Prakul's GitHub Contribution Activity"
-    width="95%"
-  />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=prakul-dhiman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
-    alt="Prakul's GitHub Trophies"
-    width="95%"
-  />
-
-</div>
 
 ## 🐍 Contribution Snake
 
